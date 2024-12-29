@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\migrations\\20241210121237_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\migrations\\20241210121237_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\migrations\\20241210121425_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\migrations\\20241210121425_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\emplyeprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\emplyeprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\admin\\onedrive\\new folder 1\\prime\\c\u002B\u002B\\desktop\\consoleapp4\\consoleapp4\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5AB600-942B-41BF-A67F-49EFF53B7306}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "emplyeprofil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\emplyeprofil.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\emplyeprofil.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\emplyeprofil.cs",
+              "RelativeToolTip": "ConsoleApp4\\emplyeprofil.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:18:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241210121425_Third.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Migrations\\20241210121425_Third.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Migrations\\20241210121425_Third.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Migrations\\20241210121425_Third.cs",
+              "RelativeToolTip": "ConsoleApp4\\Migrations\\20241210121425_Third.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:14:25.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241210121237_Second.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Migrations\\20241210121237_Second.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Migrations\\20241210121237_Second.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Migrations\\20241210121237_Second.cs",
+              "RelativeToolTip": "ConsoleApp4\\Migrations\\20241210121237_Second.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:12:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp4\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:13:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Department.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Department.cs",
+              "RelativeToolTip": "ConsoleApp4\\Department.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:08:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp4\\Employee.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:42:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\New folder 1\\prime\\c\u002B\u002B\\Desktop\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:41:50.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
